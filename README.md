@@ -6,4 +6,4 @@
 #### 2. Random Forest    
 #### 3. XGBoost Regression 
 #### 4. SVM Regression.   
-###  Conclusion: Comparing the model all the models , which have better result.
+###  Conclusion: Comparing & evaluating all the model.
